@@ -1,0 +1,30 @@
+
+.jumbotron{
+	color: #2c3e50;
+	background-color: #ecf0f1;
+	margin-top: 70px;
+}
+.navbar-expand-lg{
+background-image: url(https://lh6.googleusercontent.com/-9ujYAXFGEYg/T7jZteiALxI/AAAAAAAAAFY/cg334BrxzaQ/h120/nbg.gif);
+background-color: transparent;
+background-repeat-x: repeat;
+background-repeat-y: no-repeat;
+background-size: 400px 400px;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+	color: white;
+}
+.navbar-light .navbar-nav .nav-link
+ {
+	color: white;}
+
+
+.navbar-light .navbar-brand{
+	color: white;
+}
+.navbar-light .navbar-nav .nav-link.disabled {
+	color:white;
+}
+p{
+	font-size: 20px;
+}
